@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there! I'm Guilherme Cheng! 👋
+
+I'm a front-end developer and engineer!
+
+### About me
+
+- 💻 Front-end developer in learning process
+- ⚛️ React js enthusiast
+- 🗜️ Mechanical engineer at JAC Motors from Brazil
+- 🏎️ Likes music, football and cars
+
+<br>
+
+[![Guilherme's GitHub Status](https://github-readme-stats.vercel.app/api?username=Guilhermecheng&show_icons=true&theme=synthwave)](https://github.com/Guilhermecheng/Guilhermecheng)]
+
 
 <!--
 **Guilhermecheng/Guilhermecheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
