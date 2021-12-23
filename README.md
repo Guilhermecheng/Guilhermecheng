@@ -9,6 +9,10 @@ I'm a front-end developer and engineer!
 - 🗜️ Mechanical engineer
 - 👔 Now working for MSX / FCA
 - 🏎️ Likes music, football and cars
+- 📫 How to reach me: 
+  - LinkedIn: https://www.linkedin.com/in/guilherme-cheng/
+  - E-mail: guilherme.cheng@gmail.com   
+
 
 <br>
 
