@@ -6,7 +6,8 @@ I'm a front-end developer and engineer!
 
 - 💻 Front-end developer in learning process
 - ⚛️ React js enthusiast
-- 🗜️ Mechanical engineer at JAC Motors from Brazil
+- 🗜️ Mechanical engineer
+- 👔 Now working for MSX / FCA
 - 🏎️ Likes music, football and cars
 
 <br>
