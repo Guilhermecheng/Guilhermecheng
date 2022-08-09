@@ -7,7 +7,7 @@ I'm a front-end developer and engineer!
 - 💻 Front-end developer in learning process
 - ⚛️ React js enthusiast
 - 🗜️ Mechanical engineer
-- 👔 Now working for MSX / FCA
+- 👔 Now working for Accenture
 - 🏎️ Likes music, football and cars
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/guilherme-cheng/
