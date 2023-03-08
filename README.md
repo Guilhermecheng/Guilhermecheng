@@ -16,7 +16,7 @@ I'm a front-end developer and engineer!
 
 <br>
 
-[![Guilherme's GitHub Status](https://github-readme-stats.vercel.app/api?username=Guilhermecheng&show_icons=true&theme=synthwave)](https://github.com/Guilhermecheng/Guilhermecheng)]
+[![Guilherme's GitHub Status](https://github-readme-stats-cmky6g8bi-guilhermecheng.vercel.app/api?username=Guilhermecheng&show_icons=true&theme=synthwave)](https://github.com/Guilhermecheng/Guilhermecheng)
 
 
 <!--
