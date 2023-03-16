@@ -4,7 +4,7 @@ I'm a front-end developer and engineer!
 
 ### About me
 
-- 💻 Front-end developer in learning process
+- 💻 Frontend developer
 - ⚛️ React js enthusiast
 - 🗜️ Mechanical engineer
 - 👔 Now working for Accenture
