@@ -5,15 +5,18 @@ I'm a front-end developer and engineer!
 ### About me
 
 - 💻 Frontend developer
-- ⚛️ React js enthusiast
+- ⚛️ ReactJS / NextJS enthusiast
 - 🗜️ Mechanical engineer
-- 👔 Now working for Accenture
+- 👔 Now working for Viveo
+- ⚡️ Owner at Insight Web Solutions
 - 🏎️ Likes music, football and cars
 
 ### 📫 How to reach me: 
   - Portifolio: https://www.guilhermecheng.com.br/
+  - Insight: https://insightwebsolucoes.com.br/
   - LinkedIn: https://www.linkedin.com/in/guilherme-cheng/
-  - E-mail: guilherme.cheng@gmail.com   
+  - E-mail: guilherme.cheng@gmail.com
+  
 
 ### Technologies
 
